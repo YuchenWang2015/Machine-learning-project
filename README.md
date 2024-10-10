@@ -1,4 +1,3 @@
-#README
 This repository includes all the raw data and scripts we use for training the Machine-learning force fields for the gold thiolate-protected gold nanocluster.
 
 1. In the training direcotry:
