@@ -1,4 +1,5 @@
 This repository includes all the raw data and scripts we use for training the Machine-learning force fields for the gold thiolate-protected gold nanocluster.
+The study associated with this repository has been published in Journal of Chemical Information and Modeling https://pubs.acs.org/doi/10.1021/acs.jcim.4c01495, titled Gaussian Process Approach to Constructing Transferable Force Fields for Thiolate-Protected Gold Nanoclusters.
 
 1. In the training directory:
 
